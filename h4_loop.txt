@@ -1,0 +1,16 @@
+
+raw="İzmir Atatürk Voleybol Salonu'nda oynanan müsabakanın setleri"
+kelimeler= raw.split(" ")
+
+def donustur(aa):
+    aout=[]
+    for i in aa:
+      sayac=0 
+      for harf in i:
+          sayac+=1 
+      print(sayac)
+      aout.append(sayac)
+    return aout
+b=donustur(kelimeler)
+      
+print(b)
