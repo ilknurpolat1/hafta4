@@ -1,0 +1,1 @@
+bir metindeki her kelimenin kaç harften oluştuğunu sayan ve bu uzunlukları bir liste halinde döndüren bir kod oluşturduk. Append'i öğrendik.
